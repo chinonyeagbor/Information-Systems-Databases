@@ -1,7 +1,7 @@
 # Information-Systems-Databases
 ## Noah's Pet Clinic Database Project
 ### Overview
-Welcome to my project on Noah's Pet Clinic! This case study focuses on the design and implementation of a database management system to effectively handle pet consultations and appointments. Through this project, I explored various aspects of database management, including entity integrity, functional requirements, and SQL query implementation, all while addressing specific constraints provided in the scenario.
+Noah's Pet Clinic Project! This case study focuses on the design and implementation of a database management system to effectively handle pet consultations and appointments. Through this project, I explored various aspects of database management, including entity integrity, functional requirements, and SQL query implementation, all while addressing specific constraints provided in the scenario.
 
 ### Learning Outcomes
 Describe emerging technologies: I analyzed the architecture, protocols, and fundamental principles of information systems relevant to the case study.
@@ -36,3 +36,7 @@ Ensuring data validation to maintain the integrity of the information stored in 
 
 ### Conclusion
 This project not only deepened my understanding of information systems and databases but also equipped me with practical skills that I can apply in future endeavors. I look forward to further exploring advancements in database technologies and their applications in enhancing system security.
+
+### Collaborators
+@ibrahim.anifowoshe.uk@gmail.com
+@rama.a
