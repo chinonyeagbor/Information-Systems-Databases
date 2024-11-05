@@ -4,9 +4,9 @@
 Noah's Pet Clinic Project! This case study focuses on the design and implementation of a database management system to effectively handle pet consultations and appointments. Through this project, I explored various aspects of database management, including entity integrity, functional requirements, and SQL query implementation, all while addressing specific constraints provided in the scenario.
 
 ### Learning Outcomes
-Describe emerging technologies: I analyzed the architecture, protocols, and fundamental principles of information systems relevant to the case study.
-Build foundational knowledge: I applied various networking technologies to design a distributed system tailored for both wired and virtual environments.
-Research and analyze: I critically assessed the capabilities and limitations of database technologies and their applications in a real-world scenario.
+Describe emerging technologies: The architecture, protocols, and fundamental principles of information systems relevant to the case study was analyzed.
+Build foundational knowledge: I applied Various networking technologies to design a distributed system tailored for both wired and virtual environments.
+Research and analyze: The capabilities and limitations of database technologies and their applications in a real-world scenario was critically assessed.
 Apply transferable skills: I honed skills in systems analysis, database design, and SQL implementation that are directly applicable in industry and research settings.
 
 ### Project Structure
