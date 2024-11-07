@@ -39,4 +39,5 @@ This project not only deepened my understanding of information systems and datab
 
 ### Collaborators
 @ibrahim.anifowoshe.uk@gmail.com
+@promise_osunkwo
 @rama.a
